@@ -1,0 +1,6048 @@
+Input: 
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: test
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: flag
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: FLAG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 123456
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: password
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: letmein
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rust
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: KAqObendiKo00OMAV8zQfmVm07s4fWOBH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: dENthw6pzU4dKm8J3t
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: dRacHPnTbjg32c5Mj9T
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: C
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: CkFudY74b3D5xiajPOE3yErsWoGU9uzE
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NdX1lOyKJRiZbJP2W6tFohH6i
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: MivWopdHZ5M
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: owRgXI7PZsTS84cOWTqkSDZryMbpFeZzsShSCw6DQKPfS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: uS5yRY8pl0owkqp4HwLbv38G9AS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: RL8X9S
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: V36FskZNCPmDWj4ysCrIsv6pV6q5ZQzS39gHv
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rFzP0ueA9C3JQa1iN
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ZajcWxvQskeRCN7kTlyJIPaYmCmh7Uq0Vv0
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: UlQqlv6hUq8K6GIs4wWBNeJduQAWdiDNCKW01Rcb
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: fH3cQqvHWHypHcEOdP2gO661BW0ee8U9RtMhEVswhCrA
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ikifSNi30Vmux6F3d29YepfkAVeJ8J1rYkfA
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2oRL3
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: oMre9k6kHDqlANc
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: xOql13VKhkoEiy4usGm7sYtlqQBVqsTiSmHZM99cFRzdKaG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: E
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 8CfPLNkFje26H
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: S9GG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: UHllzJ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Lx0
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: vZ7j5Qsz
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 4m3kX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Ymh5S5w7J
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 550CL7MeRYpAGRCu41UdyeZFklnv
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hqlWU5jfqShBi12PDbilIvys9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Smm
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: COGVtk9ebMo56nxFJ82r9muBOpv8A
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rqcjAg1qZFBHPniRn0ZVqsVBTw3fYuWuDKvm1T6cXqvQBKF7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: P5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: llLhkZuji0iDcuOlCN4wl5JyV6OTPsKl
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: CZRgsOTQU32x1H
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6uMZU
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: oW3jvFnHea0DIBDM4AFo6R3bNKRRCip
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 8TjfWBaQDDHMDhNnivq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: RnvuM8SAeKCso
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: JIk3vnoeBLT4Ir3Wr9JnjFx1bLGo1Q1uC7K
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: T0qZ3dwz2MwsHt3OilWOxQWn7Btb0rRCMq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: R8Q8Y1tylXHL3
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: UgWIUTZ9mgAZXW5kmzesxNV88r7edlVfeshSR3g2bjJ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: YkQ1jUVu4ojPbYNjsXWOZ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: smqGZ7xmZJLSOnm9ido5IzuSSwFo
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: BHyrbbmMcsEN6l6v6ffk9nCVwQmr94DXTE
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: cCXql
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: g9gLqnEp6AnQVfIZDkEA9UasN
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ekewGBFb3Z2
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: DtYkDqhM8qZ70vi49QBD4dbPOmZxr7zlYB3fRBkNEKb7tgbt
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: JefU5IU4y6
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: HWODAyeHeUEv4NtF5DTVQtzMq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2qJikxUGIVFWX9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6iW7TSP0fsfS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wugPzJW4BdNIaJ0DYkX6dOurtjMFyGEK0G
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Zm6Tf539f8ng8VVL49EceJ1HInib9IO7rwdpy9iJGuJe7rWVQ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: kd6XU2lh8XoBnCD8xM27ULbKUjrDESQS9EHTDkSGyu3Ixaf
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: JhKa1VlEZqkd1zZXCznKhW6geojTBk2uFb2LfmHxgSJytCi
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: SxqHe9XoDSIBEubw9LfbHy
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: YHNBO2Lb2
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6ZGNnsKTzj48H
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ZGYfcN6xkZr3HWOVHzsVFS3pZW3Mm5y
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 4UbxbEZozpn0C9nC1
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: N0ynpY6Nh6I5O1DBsWOJ64GcvJVEgq68S6TzP69rCnYLAbO
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: BesBJ7pJ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rYtPWAUWxZ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Iah7ICrliR8rfRDctn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ctsoBT4rI2MW8
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: YLV5JvqVMxVtx0MxlY2tUUMy
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: GUMyLSJNBGveRmt
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 20L3yzzRboLe5lQe9z3c38UbWqSi
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: XrU32xa
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 65nZmvC7H7DlsWpALCbLwmsuduGFUNL
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: cjPOI8AyWipkLB9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: bhGAv3OW0aec41GgMgNiDBLuTc6o4nlRNJwJRxT5AiwUe
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NRi4PU4ndiNDKdQljSwKU7ca
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: aDgVAJGJdDIo164DwCSM1h3UScalrO38n
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 9s2NBF38Ccuabpgl24w1y60etYdrlenICzxkYJelWaRmICXbN
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: zBZxoSf9hf
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: DQX9xkmBlXVYt9c35h
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hQp4a3a3SDxQ2TuLwgfrm7wXlH5oCgVBwV4IVBC5J9GQ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 1r4X1WIcYv70dFp3E2PzPDGRUYdsvJPMo224ztHA6ENH9n
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: TqLu
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: UPSXFJkk5ffmlkR4cz9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6Q1w9els5Ewl5dYxUJOTCs7sG41w
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: PevSNF4UHxtk
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2EGdMW9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: YU3iJ21jpyT0MLH9KjabobW2lgSFjo43RHs4cJP
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: pAgFscKuXXXklvD
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: KfyvdY6xoZkBWtGXVesgRZ7fnMFnTp0XccMsFW5yE10
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: xzI0WRMSk1kG5v5kbvsJ4sym0M7Z5Lf4Bl4j4C
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: RSxCVxGD
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: PcKNk8VEUGnhtA4UOml6R6rjMn3v
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: J8t8xWlzxqS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: L8FDEOx
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6fPOiDWIRNnq9XVPALZzg6P9lDSm
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: EIUb6uPTguYsJ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 4bFqTpLbFtwOV8NqTlCsC
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rlaos43Rn3Vgr
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Hssevb1zxz2vSP
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: v7sVshusfyRD5qZlbGsxawi4A
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hWsxASl5km7SKw1NvDc7WDAwkbvHmKhfNtoUTDiNzm6k8Ywxm
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: AI3cZWLo5lqr53mcOA6nd7kcD0Z7dce40XIaD3zZ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: uIvlRF
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: kLJVgHXNzQnMalsuTJviyl
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: jNR4vRokswOU8yHmjXGpwt7PrYQHALZlG88OMjP0DBDkfx98
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: uoEMRaTYEn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: o8GVf609FHeUKUu6e2UGAIfvKWQAQN57jHS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: kfqRb5soq0nA
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: J0w6Xt1aXJwqpTLAKb36jsZuyOYdAm5MX8KcWYu2
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: PVHVLv6A8hmk7DYinQAAfESS3lpUMBbi6D4QQtXX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: WHHIHbjYYOjqL2FRSLObL4atX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: pTD0x9sAOI6g1GhswFZCed9zDdO540GYVJLn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: p3oI06WkeyUywOxdLRxdEQJ7KLGyKyFi
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 3lFsxQ4wVNZjePmSXCqgWWH9llJNH9nNuJZcWf5ODxeEJg5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Tp
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: gVHS4
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: dFFlUNnUrWwc78JzeYK47tzNMYXPkHvKTIGPSF
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: xaZaf2Ny6u4G4FQ0bPpTVUuf8YUhhSG5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 8zycVMT2
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wbb
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rC7moccBIOA4jrKbb8OFbbBeq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: FdGP4U3WC3xcWr3PvnSbh5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: LA0M2lujl6YlsQFL2u
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NVyMqcQ5CGlXR2t7MaXhFIOFgQyTLOBE8Vgei1iUE
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: SEJ0eM2uVAOzsnBaGdnrdOkGIQftuBpq5J
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: EdN5JGEyAUHwKMkTDjvDJJoqQu44ZG7JpTI5yV5rFezsXi
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ESF3A6MhCnS4ut9h6etPe06ie8EbGEY9HZH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Kvnpjow66wplm3tiJ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: q0PqGUcInZqCRCks3KNIuoqeTLzZpdR6jBGwqYx7Q
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: a4Uw8h2P8i1aslmKamz2MBQqJFJD
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: WWPCumS0iD4dSQ1xw067BBs7QyHVzGNGWvl9QrWtIk1Ipmi0u
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: iLbbuI7hNvFbks8wChVDDq7Wjyk
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: h
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: T5a8dMrK1
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: sknGNN8pI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: npXNVwYnapxLVYwSlMJENSZUHmco0WjJf
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 85o270A6aNanKNRRXtdxFo1XNMx1Y4MA1dLLLMwpKm
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: aAZop4wiAUzKPTCgFq2NC2215hXOFVcTe6WN8EXh4USZ1E
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: OO4ZHh
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: h1nx8qCRcCBBBQH53A5ToNJaNXH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: sfxyIQkdg1mTNCjaxn2818bxq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: LvRiieHrV2mA0VXT4yRf5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ddY5gM4nJykTmBZvmrQnWk8BDiBDwbcZlrXNJZPdvZpVKgLTo
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wAoE7iQlpjBH2
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: mmvr4t1zM54m6GfEHE8Md3ua0T
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 54BtxroNiBSNZ7zxmYuJ0
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: omp0c
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: mfHCaqL3RnsJfFvETM
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: UWf6Y
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: cAANCbLmRgDiAQjszV6KY5kmh0IBrtKdR
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: OWv43VGCoS9YwQ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ptkt
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: k9T8
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: x9nKGaWmYhn4j
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: AOZkLxMK9A3Rk8c6UMVlZ1sje
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: npHqXK6JPIg2g4djpcEjXAzKrJx8L9JexH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: F7Fav3nNxccQGPj1oirW
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: OFakJgNgbBQ5ouCCkQPBCuIvNjaVr8XI6UsDlO18Ce
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: R5br5t07HkB8Rg9Qop18JAcopKs0Bdbmpc
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: a9bqC8VD9rrFEZCq96PZigkKnvOCLNAWCkwv
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: N9RtgBPSHsI51vJKeZLDbWwCXZNhQ0eTKI0M3gIB
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: sIpdtAyWq4w6i8HwxxSzvqgBvodIpDaJYWOCNHGAjzHNTTqb
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: KZfAwVhA3vpsDjikvQHObi9S
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: gkc7M28ilqQmOasBf
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: SNljaX8kEXMPkBbgHOT4yBvncBwnzBMzzQP
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: KDOziMYc
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: bwxfN4oD2L0OXXoSvzv
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NRsLylzq2WLbpaF6OYwzNRAIw0IdIkIPVR
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: H
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 0YyalXll4PVV3
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 1SB3rYvSnkh0MPEuQcdX7AbUDuclKK8wltBF
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: OqhFyniuUQvR26J
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: MW9FXcq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rdB3GqS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: l93c2eJbO7XnGaWC9UIaUCM7GEe86p40Sis4Bnlt5tkZW1s
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: HORlF
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: zXyu2h6aJnBMfLrN8DkHoPOHy023vcdIPrt1AzIraqvfAe
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Ulo20cVJMDCYNzBEaww
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: zgVl8SJehMALHQZY1VX1JaJpTR9Oyzm
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: lGHJx0sE4uR
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wuSgLX7PbEh9wWULZAv6RF
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 7PJ73ddW2TmFs5bV
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 9B26ZGeOG9NkWlQcFoj
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: CBbdhrXahFPaHZTQHnBUnLU9j6aRwPM1qJjV04Xs6K2He5r5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NJ4eriIg5JwnsD4DoRYOglNhKe0T2dUEb3qkazukDVTO3bS7Ds
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 3otWF1KSdSSjRWZa0lPzKmAZ5gJzLBxvv4p4JWSL3B0a
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 7F6EWqpYLGaLEscrXYM
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: J6P
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: lUlbUyNeL3mVAUrYtonD4AjRspwteJR9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: WmH7JjmiW
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: kfYMdsREnaL4hV0U8aLJjUoLb1yFy
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: fVIQL4
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Px1F8mTeG8QuNExEipyBqGXoofUuQitsWPbx6
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: auGu53paxsmnp8x8SqIJB9oTd1N5Aj7E1znKc0o
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wjumRhZTixthvZ0wj3M94c0CL
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: CnJXlETU6J00cLtHZEMZD
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: DT9QF4vstFsKgBGizvw2FaItNwl1XsCtePw
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: TV4NytmoCuf9NM8Ayhjue2ACyHnIGVY
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: WKQIJ2pMiqqJrJyMO9bbEwYlNSZ0doNdyvMK7NZLV8h4Wies
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Mpc0ubuBHdfxwYdlyNf0ndVV
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: PDTAu
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 5RB6mqxFYeADE
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: F
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 10RMYdKxFx0a5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: qSrOAGpQ2hJpAgXzTxjdPeav8cNjy9mOZ5sddSiG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: cs1SSorWD5kWGacO
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ebh5ZLcy0zxXVrmCyplsrGmdhht44T7y4YH5gNXsh0I3ON
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: HROwz5pQhW4vLYcC5sRicNqhcnad9XP4qaWntdHEbbfsC
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 5p6hQZnl6
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: y7vvSPotVJtotoAKc
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hQKQn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: JBmkCWiqEbAb9WJ4G4kZ5mdDIa
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 3PorbHAtpYeRHNAVmQKB1NtXo
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 5qQoovCbg5bizce
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: kPE5G9VXDIGAsR6i
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: kSgoVuHQqUlgYNPnyZDbasKwCIXECbdKfIH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Vvme8cA31AuxysWJ7M6r68Y0ek72KFbUmuhOp
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6gIia4MqvHR0JTTAJJsW644QWC
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: IoV95h0C71pJFUY6lh5Vb8HwdvoCu
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: lnu6qpu06M2oHndN4u
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: XQINVFQAO58kuf2O
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: RgleMuZ5MCLqd45mBw1DMIl3xUMndXiudQGfGGswSyQbDuDt2
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: xSdfVHMf3bfAHnTOeZ2jXWwgxUyvX9aZS2f8mlqBshn6
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6s7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: zRIBEF273Z3mxZmCHnnn0Czor9DZ30nSRQhMbZtmA
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 5XKP4BBMyKYhHriSbwu8n
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: h
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: XxD4bSsaNz
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rY5xI78ExFWFa8HSd
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ftfWJjiphKj9kD4g4IHU8xG84714
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: XwH2nspJ70WCMBUCJGyU00gqGCS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: w0HVsV8SBUtEND5Dl4ekTdJ4CSFH2ADyZkKguw
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 3hUPHfKgVtjHzG9LZPGihxBwvTV95OqzWQKaVXDbKHgNTUW
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: u23r9Zqku
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: iazjBbLwTqgRwmWucjCPLCADEH3
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2MuHnV197KfYqZrkcZbC03vYH7wUPmO1xzZjorbVgle7LqA
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: aMkRXE3PZ6
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: HTZKpOejThlYiy
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: mXp62TcsxerdBSDOUeJwbNojs1FtihGqRm6f8Kn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: EVGTGT0DkjW
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ZWmLVf6hLpTqzZs
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 1teSeIvjLElTv80w51e7KAw8pJpnf7zAm1aw
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rL67HdAkp2ZBkHasjVX43
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: RaBzgkAIu9jYBUd6t8hTWLsOcq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Rdauer2ZaszdORC9rSPl6vVsDEgaM7t3TQH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 1aKkq16MtxRtkb4UTMhYIcwwO
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ZnETybc4SglB9dwGKTCPCzvaRyntvzgo
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: aLbLvIGZ9kWXACsrHhnFqNlNLQpvrFrQg0nbDCgT8TPYtDPckS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: GCs5poCYEAjOJZ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: VsWAurl8bW1xAj69Rf0Iom8oeBQDiHmXtkpm
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: CfERSCHixWK
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 4nXdCZbubZFby0U3qY5LZ1aImRE4UUvmFvy61v5wk7p5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 9398Bg1ICyjnipFRoYUz3mCdgC
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: VRzrRQ2r56Va4CsmcM7u0ons
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Ed6IDHiZZRM1bhKBIlS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: XFIMCpu5u0NOprYrR1ISqhjz2wm61fdvMIKZgp
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 5o8dne1o2Yb1s4Df1AxPQjBGeSbzQa
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: nlp78qzng8iydQ2YLK9cdAo8s
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: BbWRZ3tZOHkbDSWJfJEY7Lmi
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: fH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Zr1TaYwfuiK
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ti267kc2H
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: GbzIrG3aRndOOQwVxRzxk5KqTWfOJFip4V4C655DnmV0M109E
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: WQoSiBE9ZoFFILQ9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: oomsiQpRm99MF9FxZT
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2SccqIf97VzP0rYxbbD2DPZiqJ2LnNP
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: oKgPCIT9709a7EV4g5dybt57P6Qn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2vssiriQJ2j9xffVkIz
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: fm
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ttlumSa4VFJyAoHan3Q3y4rwi0x9G
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: fK4
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: uuEwEP4xXJGvWGjpcT0C3f8bVl7IWNSF4oUpkHQenGjXRBsr
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: WaQ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 4bcB5UVKNlVkgo9owbbVQvR49fBrIU5kPBiZtJTBwEFWWj
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: YeDMTpM2S1CxAOl74shXpTZOs2eE7o3ZUxb
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2DkB2dLMna76BdNxCJp2lo
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: sWEa2rx9CBPbQUJbnM
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2G
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Acl7MRFsRenCu1C
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 9o37NG2KshvKgcn2vre6G5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: gzBGJZJJAN08rZGWwgtOieBmG6Fgh6IOaK
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Gtb1ACqK6wWIh0wA0KuM1ypLmMHfjQz
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: cgBNI7ariP0b
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: uRjk9C3QzN2vktRW5yfXndUehkh9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: U
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 1dyn4xdoH6JWv2W25xDqEi4DwFlSb6SyKQ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: N10un476xpssr0OBV
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: JTUtYwplGjPmDIsAaTA
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: JxbRoXP3Xy7Fip2YZSlaztwXbeBqBiz
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2Xq6xPG84Nk0moOpGbyeXGDBOd55xKv
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: AeBvBGBichRFUEy8sm6VJbsYNGjMI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: BQA3vBoy2zI484xGC5huMdv7MSONGvSmWKWUowuvCPrqEvOntb
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 9FtMG3BCvT8vkvbB45C10pJf
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: j2Ion64sEX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: xbLleKFvSp2dGg5jSMiF4W9Ac0Iv
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Zh02VEG4oz1OSS1idxTfdMkZbWeWNS2lr0XFHmXB
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: zH8xlGDVl
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: qSMrsWwoOTNPtJG3d5EYTrknWniRe6K7M2xdoKdNC7Yt6z
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: PVyekNTSRoW4
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: tfeN63enTnAocvqvYAFZ8kpwzf6Iv9Uar8b3iHXurHDI1S
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6xM7aUuQuzI94qwa4o7TEAcbOl1onsAOcVWvy0micjUblOpce9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: GEQbURHfsmMViwY
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: c3J499bFzslzcPyofbTLTwkFCdOTmI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: AvmPSH6q8km2yCjFgVTgRYn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: zL1LRo6xP92UORJug0Rdo2MkKRxl5E
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ly7DOROEQaCd3qlZOsy3TaLXhqCqe658Vbr67RoOwvF
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: QXxJy
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NWbw9knRZ9A5uzTJqWivuORx8xztf1NJ6rnd
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: EevJKgSojOUfk4umd1aQ0bxMg4NSaro0
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: xGVxOOVelWGghKxaibxTKDsDFWEp9ckwqcuD96SpCsphO
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: jIF4iTKc3nZgEFgchj24lEFYKyzFQ4MNrE
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 4cSPr1Q6ErEX8okwwI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: uWC
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: LPdOA3il420s3udlyoTMO07ntvtVIed6r
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: VmdstWlMk5pFsdCkqvrhNGtuFSY35XUUAbuQ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Qycjt
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: pQlElqFG5AwsSqIGZzwbGeAb1MlYK9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: S8zzjkHlpJCZ4
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: SqlSvj6UHUbus0Pb86v1wJok0lwLzlRJiRDvM0PEXqrFWP4
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: eKde0Y
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: GV57zc0KeaLz7CKhxMURmrFqA5lAyPF3Qf9vtqo
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: sh0OyWqnPoI1ixSIfqV
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: w2FjaOCtTlS4y3PwvaBI56cnKuNt2NCxVi0x4ei
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NJEqBqvfZCcw9p
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 10E3ED4uXsUn2w6IEd4
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: dlVLmFCPt4vb1SS3iazXUZYWiUDq7q
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 0HfOL8TXu9G0dR521aTylG2HEN
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Cl9NHFQE11OVBwvlWG8qI0gsrBc4fhY5JrnZOIZMC01
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: li1bhi8qIO3bFN0lF5uhBd2QNFbZABFgQQ9A
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: POW8un
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: lPFXR7gQ5HMHhAACDyyzx6NGHIkpjE35HOzOG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Jr0kY2oRe7VNO0MOCSN9UeNR6tm65eTpKUV0sAuQzKlaud
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: s82r
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: e3d4lhObapmhhjfMPLP1C165CMkDyZKdAbbrk4h
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Zc2Y0y32o8pMDsBQE8u6Soo4RxTX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: YwmMHAGXWqpFA82qdPhqn9XkDlmDKJZ1K5kbPT
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Wz9hosoS8NAto
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Y8VZRi
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Vdrb9e2mzzLVhVI5BCWKESE
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: oeH8ZNR4wGR3dNyYBPLtVo1lDKPNbmLo5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 8L6WPhux99wwyklePOAx8hzuinDC42IR6GG3dLzMhi5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: zKmSWgAHymOhhaVJ6BwOb57Gn5NVkkR5ju68VWb19WiWCIl76
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Z1ZdezYHsAAiYvbwsbHcSU
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: H3jOdTrewsWmYySQrsPLC315V4Kasj1rfL6
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: lGXTKMAEduFMhfa1x3
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: D0xBSggrbCiZe28ufmO1ndGpTABKlnBX5sA
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wb65VL4ofJ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: zDlIi9N4pX3AC5PNkjoVtqnHskHZo4e
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: OSNJmYXzNHsM5bGijYtT3LzcPmr8XFMFLohay3VfjKRxB
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: BFRs19CCX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: dPvR9DW78GH5Pul4winnpIKIAmX0dnhGZLbV6LWzDa6
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: abjconSlddBTIZKWOWFHuUg5fjb5TEfEsdbsxCp24u
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 3aFWvXHviMi32FL1o
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 8pelzxqX5WSW91jAwQd3QrsK2AKSIIUM6rNXMnyO0fV29T
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: dOtx0n2JqLFI3imr5kok3qGctRPhcukV7PPuCtQFZB5t9Xc
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: zh4cAF1GNyutNxN7IhPBZ2LJH6GyGb0BWts6zS4pC66S
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2QNFCVym8
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2kbikeJSvfvdCm2k20AbNCO1Snb8NctXPz
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: yn8pOvCgD4RwoHQDkv6N1ntGwuyn8HyBosiS3Q5TtuCelFG9Yd
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: j0dFlsFKbeVX4CuChVo3rsQcEWbdajeZZowN
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: bph
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 9rci1rdE1pb
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: w07vKSEKpJxRMAGn1ZX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: g6
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: FdWu6kY0ns5JOSU
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: pNP8
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: QEEaRkg4Dscn2KQRSXkVjl3r
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: u6oDq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: RmW6
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2HlYotMoucdWnkFN6DJ6rzpEN
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: XzKzseESEwpbLIH4rPBRtanV
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Zh4VEuADS1qXfNr8cMqGMJp0E
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: fjL8zpG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 1A6jBctNSsVGwFYRRwfJwMvxgsiKwOpRYC8l
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: zS2P7NjVL0Z1nuB4rdLNFPTbZVVAWLnLNXGZCvs1s8
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: CUCeobBRnCBpfqpu1s
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: AWEWDdQ2mUX58N89lIImUsb4h2Yyr85EA5Y7IQYaxKJd
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: HJ2D2MC5hKVyQ3axNXRgceKzftDoyW2vyHBBbLMbR
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: oexSe7RFvxgAFn1pLesVudBtYmicXt2WZEACK
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Req8crNSJLBO7B4EUiqLoBayG2BQwIAyQOIIVw
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: odE9p
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hk1fWpEBJy9H
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 9UKTJAG4X8jswQw7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: F4LSPc4Zi5P22PUjVvEhI7UK
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 9CtzPdPvuid76BbE
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: gRUA5rAeKM0dWLbKdYsy1d9lWL2KCWyRdc0Q1ICtTLmOUeo
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 8CJxQlOM5oBIjwGwPal96XCOhTYuE7iWM4LiolloezXC
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: eKfz7Sp3D1eD0tlWbUyfdnDMUo3wEuj9t4NGwqmnjIeLffG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: DfowGnJgJBLhzS9Ia
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: KvtbeP
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hMZjN9M39CN2o
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: xfw18rlTmstpaFUhI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: KjB0VaMTjp4VH9YMSZT02DMTNCkaZ3Z9hDZXK6Qm7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: dWamZr7QiyzFxy30pV68nD6NYYpVgH8Uq85Bp145TX1bPH8
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6rzpd7U1qEnlpbhTPH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ueWSrx8kR501NvdiaF176vFGoVoSSG1kmehPprAjpE
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 8ilNBRZbtMCCbpCRaARb7h5WWZodFrC1M8EQaZOMJaqE4k
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2o
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: epzlXXAC49olcQgRo2VhAT26CewMVH4b
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: YGL
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: HnD2FHN5kFhUclWnLSp7yyN157zzGARb13OhqMd6NNrCFLhnFF
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: N4zmpp8iVHZVb2ffG4PKmVhfFlseql1BdnxtoKfjyRWbSuh4
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: bMdcobeAE3bVCFO82C1XAMfKfeH7nBzQIX4ZvoaRrMFqySm03B
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: CV4LeAdbH5c2JiKcxTUNNV0UA36f1R0Q6
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: CAdAhWvMk9Pv0mSsfi0Fk70Cehhw51tONrmcbqPsVBlwaL
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: bu8igX5W2lWaEwlPD9I4AlHddQsu
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6T4vGfmIcKST4EyRvabz4DrGYSAXUK0iime2X0oD2T4br9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: avR2ZjjWDbR5WtYV8Iw0gKXc7w48SE1dA3nBIhlYQo8kJucK5J
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: CfEu3iPVXDhOKIbDDQn11
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 5jdwvHB3QuzPKKbaZdNAC4rwAQQD
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: tyZnj6cWYqQCIq0F
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: OPfHX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: kcPuIgQuBUC370rVRvaXPZO7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: lznVIQ7FXYATKvC0OQnfxln4eacnbKrMdCMBKcKskw5t
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6Dd9cyR8zaYWkfkIS53njjbBTGMPTA3TC8V
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: K7tan
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: CFoSjQL5apjdWHHy84GO4L
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ac8AiG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: TNLmu2gw
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: nYVrchIsELjC6EuPj
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: cmnkT6p9vlOkznPUCsLooTh2Y3VKC
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ok6kz2fFxEqcRKJ0eXUfDvfLUtlsYBXiKeiA7xXyzuWmjL
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: TJhoNcH2mWj68x1WzGKvvg
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: P
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rhWZee2s
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: BBSGaa
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: eHODjI032Ir3ZOjEpwlRETZifh77MajWcQS5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: VjxUKNkRrmkXdqi1potvleWeJrkTrTe5kPf4l1
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 5we
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: eJ3
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NzDDVWbi6bmZqQUenl
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: PVUUrb4Q0k6QNHjHUPLRJlqMDXtArK1DS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 3XtoUXg1G8XdtyEnHVKeGLi52NJTwUqzSz2
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: FR
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: cMjCt2ZG37Q5oNeC2kehkzRlIpSE8ARdr
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: lH9uND9qku3ewNgfqkgzyJimE0o2
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Iqwlv8oaCn28Hc4KiboxRFosLPFmi0wuVuEcH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Z0V8UjdrDsJslOXLxnp3MD1
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NDKjF9wyam7VR9SnwtCMLIyh6P
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 7vcBHVAcIM10jFecn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: oRYUI9nPP9clrbv40zJHWmSTg
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 56K18f
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 0kJQ5hUa3L17GrA6DVdvIL2Y7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: fDHnsUEnRm6lxSV8imbKVJknuklgROTHC5lJDvWFT
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: E9hfUSqirf4Qu4DptCuem9ph0HCmoafKunxQm6
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: goOA1k2v3dLyeavmRntQUfvPmZT0Jcnqn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 4b1StjHctWCszUImAtDwr1DVn1IvoW1wwqqIFqRL6BcJ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: FFggA6VktxcpK7duHhRywl4U0QojuX7o
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: UblgRn0GYnsfO52KspM4WxmJ2F13wfW
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: D2HO6JrKAoC8SyzSYVEyuWWiMW9Tf2Wn5Zxm
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 7Ax40GqIik1WxHFFk
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: cqbPskkkzlxgD
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Ooi55v
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: I7Ah78Z1zrfkFGDPjsF12nsOklET
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: r6DiVZTeKOGhoG0
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ER0sMnig4OMx2CHjHvTmtP9zA5z9yonJ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2mdLC
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6oSUMHpRVgpz7u5iY3to6Ppi1qDTIRByUwPuCEiGa
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hAxRVqZoS81dvk3JYBkDQBgwV7XwqPH4ZdisrN1q2uvbKgUdl
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: yJR1ez4HUmxvXyob8jDw9wVflNEz6EJDLzdb0h
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: tFI2EnFxzuCJ6cOlD
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: oxiFOMrWJHScGupa77QJGNHuU0
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Sd1T0DcGfflhDFnPCtzU8SP7j0OA
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wiDdjMJQvsVxzf9c
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 1bdhmNQk62bxN0BDaw11T3CTdINYj
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 1uDjdW0VzHnvgPLa48LIkeVx0g
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6Qz4Fr0qX8htnRlV9DGQWgnbWiiAPwfI7NTmvQQ4ZQuvI1Ih
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NhJDSbquJrob3f4leAcexUftBSFimi5d
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Fz3o1wajrKHy12ZWkyXiSCIPr
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: TUuh7AyL26N5qjFwX0GlzWvGjPz5ezvE3
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: gbIGSWd3z2eH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: xvCPIqKB68yjo9hQ9G8mQTu2VNE4JgUulQhie
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Gd30JvMKonCx
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: WzA6W0dq7lMgJhWL5QZRF4llW
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 8qnaei1OdD8mwMyho
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: xBVoPdilg647X3C5xho6xRqeRVWHkGycuo49rhuYae5mRWYd
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NFaANxIMofHsKwZ7j9aB5Z2mgxQxx04OfHnSUwrKU9Q0xx77
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: A7Wp4F0VZnBieqsj3WeOLuQKK6igLPg6wYxsrWDi
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: e02Vfn6NLnfGqlvEUzBq4yOogdJPCWpn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: drdsLy7MsQJQcr
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: GvcA4DlwbDd
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: pOyOX4oJL23CGHohA6ex9hwaOa4YVqqrpi3wTEYcbOv
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: QZur54kZORw1eJq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: CsCUAFHbHTLH0DHjmQX8Y5cwFDRlNVzLOpKod5s6
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 30xbqmclbe
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: tjjiSm0F34fzdpDyv2ZJeu44QMpkDMo8ztfxNy21eL73HR
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: BkZE
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: euiagPa5CCpeSldhcu7H
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: jEdAQJAD2KdCSLH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: QIqM4
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: fdqIdrQ8McgpsjlZEnOipMW8A
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: xs1KVa0wFeHQ9B8L5Hr1bcDyfFxV9AOUeAdysxcCB3F
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: xeWcU3EEVNzgfyHqylD5YRc85ZOn8zypjkc7vLWvH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: TJaDPLEV
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 1PRfBKjVObMtpUHE6R947d9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Ay4Sbq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: YAiIKR8cY8ClNWSpkkgjLyGIWsxhwFFe
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rpiC48JK0amlLhkCdT3qzFI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Qtjbc1wLd0mFVgrmRqVNKwcc1fwDzN9ukUYDJ8MJU4Jdm
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: FOGXGvJKcIMaW446wUUUbvXNrUgKaa49ND
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: pMAV
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Jfu0iVaGgX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: mlNGJx9eOa4OZkMvpoCqpqBfpE0ZVNT9wWCQUbuNOOUItL
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 9EB2yDorNjKDhfoBjJ46vfGpqiaT6bbQHnw
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: d
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: bjfVzjcGNrJW0b
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: o26ryRhVe9Q2r0gI3QLX2YaDcXZlIGpkBPZswBzlz
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ki4APQ1NTi2lIh5blgG0OGt5bFyfmGOjCUkF4P8
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: JW7W2oeb
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: qsbTNn0h2i9EB
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ruXi5AFQQxxrNHa0YeNXYcRkz
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: xovzdtpEwRjrPIeKBgJ1KwoyMf7SBD2E8h3onZTPcuQfWyj4
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: sFR9y1o8Yd5mxHKHq5xmcQxY7OOwth5N0
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: sE6WOSygH1qYEReeC7uieMgYSo3O5ih24oMaFefX3x
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ZugZn4e9jkyk40RE7RNrenz6nkMZGiT
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: PNon9XFBDixaruhqOKWVZjx0OiombqCDyssxOkEP9hKKgv
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: b7jdjh0hHgJVRF9i7TtilMI0ckqzZKPXSZASlPOcV
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: mFMK8cX1QjCYeSsEUINRcuQ3fNo1lsdO
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: pFMPKQwbuhQRgsm9LT18Q
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: sppJV3qJY9ag2Przt7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: SBP5zTzKO4NtVZVRNXI8cAuc4C
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: yxBQE5FeyElqrRmCLH46QsQrFl8
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: P90SV2rK50AcQkj5XBZatAD8zn7QbP45N
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: UchNtohOM1AScWpxbd5iw
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: TTrb9KA9XjnzWsXHMldFwbzat
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ztlH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: D2sXRgNJYJzUnEG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: eXZOy3g4aLN4yc2yocJtZ1b
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: n5eQHvf3dRHQJKqfrdFmLNKs9bKHkdLVZ57QCtM4dqH7OqrbEK
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: xTcjBN6dXOHHxnJ15oKOZzI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: JewS1uyfWgVZVschev0RhcV7snymqjlvatddMbYkE
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 8SWCrwde3PD24uIab6eDxesvteUodIhaskzelbX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: aPO2DYGvUclj5FXKy0Z
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: vXP23gF6HjZ78y0qvpX7BxsrfRE8p9tZNvPuJD6Dh
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: A2BtgM8ZRIPHie6arLEe
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ADq3Nt0u74Csxl5Z0GtBG6ju3d1csTxQZah
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 0rLnvaPhlJqdHSLas8NGpA7jIyuhKjcDiWHOs
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: cusG1P9jyAM4glONTtd6h
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hgPJPwqZStymhm2DyW
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 1V1oKDQwapE8asSmNuqn46pOJD
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: BvT9cM86E
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: jugbmGo4ni70b8YHe
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: uVysTeoNFarVsxsdCZ5GivKqLk4KMzXeQ0aTynQA5oXtTpoEI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rPLlPC90
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: uma
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: odHjPOn3YpDTnG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wstm
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: dMRnE
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 3iTwEBQbZC0uR77FlyMcj4moRpwKsI9xeTCEjXbmo1gAC
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: B6NnEto3Cp1VhcyuuhekqOh
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NugbqGVtK1BALtDHt94QaMLi3UNlQhi8PlI8Kgd7rvJf03fe1S
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: dS1TSRGgvkTpD115pfBFExhzlM7zefXXsfMDjxeK607Az
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: qX32Hg8MOw0R0t5yrPggZYueWKnJdlXIs1
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wJgU9hxpjJ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: K324vTnviIcs5Kw
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: jhCeRJPQUJ82C3Az4D3tiicOwn5xUxhmL7ReGS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Kg1RZP8bsch4E9mq7eFDEBEezS2MTrTJF3qkar
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: yxgJ5caL3czfyH2gIouSasXZqWQ1IdpFKzgT
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NhU0tspcI1nllo58SzfkwiOWN5fOmb
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: vtXSUrumivPelhf
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: yqKts9JI2A9IHuIsAZbdOLPT9d19O0Itm0XYvECydjzN
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: JHOLBs5qzmXCbMvGNxnZUQvqlLBMJ29AD
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: cIzp5pCirOxFVtY3xkjSE
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ciAu7WBOt
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Mi3ZogyNxAlYusbBVb2qY8p2EtNkBhW
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Rdjgg75bsUXBQzG8GJProwekKnqFUFe
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: oeZkDTUtNOtFhGtcc9WtXSYQ24A6K1hT9JlyPB9Fijnya3mG9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: IQT5cgVdRRzbHADNrBn9hZna87l
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: EqXYhFHZY1ybqHAWdp43qtaNOhPMWyulp
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: T2Cf2Bgnis2eez1
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: jXnbahuYlF
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ey22H2qQ0lNhWJVJXMbSzxr9EK4
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: mPFIh8jDahVVRXpPRtXpcx
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: DFMhMOQV5vCNXjpMNcnhekn4UqXan1
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: JLlpIBhkAxSbB2SNQAx6W
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: fFzRsmINsxzoWyudiI4wVvqTPVBankL4fIoVs2sOgnW3317K
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: WO6up89Adpmv71T0R2DeY6dMW
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Z30ae
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 77glw4sNwk4YUE7FUHigXGqb11Oa4dkLnIwGdFqxfXRuERcvkX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: utmdxmUdb843fYwq6Zc16dinuaQ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rN9CtA6dvsp7A0abro
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: dJWUOY5xbldc7yYrurrERM0BCWyHXTr8NiJM7SRJGpB88
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: UBbW8yIt50Krkti1QM6m4awVhCFPxdu
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: EXQoYEcgMxh4bNuF
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: tKRJf7fROOXmsl0iJkKmX0uEns
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: FgvHTTPd
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rN8NQw3kab8Qc3q2iz5PDpJPWnx
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: RQQ8
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hEOndlUTeMT8aIt0WgY3tXvKO1aLEHADmuuARWWld
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Cc7Vgx99c5DJG43zIPySc3bEIKF9Mg4GF3GUA9Xj
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: K2jVFtw9LPc6b
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: nvkzmyrfxXcphJKuWL0iP4JcEBcnqHWHflFdXyrj
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: aS0TjBI5OS5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: mytHmea7vGpZTorrFefY5sCaazIga4BvsjmwSS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: yWzd7k60zVEgX8nG2MQPJIzTMw8eUGKI1oao8drl
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: qHFBQJfXn7QhVJgch9OzChL
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hn2giCJE52MqPfLnKgQaraDA
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 45B5vogur4WyQ7IeAtsgUji7WrhoSPrCDl5Nmy5d7CGbJcOC0E
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 05WeyCNDibaTzPFukAZLjt9TCoFT9vRhGHLVG3QjDlhoIAYpvQ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 86fs1Dj3D1Y31VrGI5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: HtSw7io4n3pdDPMI7sG08
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: GyOj
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: vsosQFYHEzsKghdrVSh48ZvPKnQt
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: VWoJu
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: qtIGULWihhqnNCNCvFi1n5mmydsYOJlDP91v8zlR03v
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Mlqn0vAaHLrKi87QwCW4zralSq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: uCJUGc1WGXZiLFn3mCjACe
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: gmOio7iZqI6MovgnVLDaAcv
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: a
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: iWpKOBgYmIUx4kWSMDn0C5CTcq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: SbOVjngL3cndQ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: pnJjOcRP2VMzYu9G0Jlu7yjBJuSLd
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: jHBlaxH0MQCP4j
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: WvKUmlAzFyeUWxLT
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: YoIbR13qH24mTdjy5SKqchx4aAM9Pagxx
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: j0HvVXAphBXfUFNoSIRzm0dOu71LqOyZocYuX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2t23GiwVzuEsgj1piklBS9OZfo68pW7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: kDUcoB
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Tc
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wtpiWgARPUfjv0Tfb6CND
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hK7X70lsleaPXHFZ2emDK
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: lSLiA1goNnjoC2LsK2W7FrFspIpj9whS4
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: czBwx
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: AuMsjhV4GRJemVsBTp4JVmBqb1LxmsX1UeVOv4Y1r
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: LiWsvPqhHKCfdrg
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: O3FdgA8yUmNsCyY4TCOg0L6K769185
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: p0F
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: aDm8ZOslgh2hFWmQKhqVYTG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: YZTL2giyhYD9tE61qstQC4izTTRS3afIYFT1BLN
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: tN5gIBQlG3qT2aCb0NhzZnxE
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: z5JE0VJC6j22P4vz8Ya8ekC51vuW7u
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: nzBKGOnnJ7g1uJwyzwxkopO1sdQTrUCxS8ZAwX0MQ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: RitIMa0eaSpKjbhX59c9S
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 7aRWdfywrSINGjA
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rW7oAS5TZcLAo
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hx1aAJKUcvWMn19ujGdSh1yQmwDe
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: zYoAGrKIj5NU1Nj99Ss
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: UJr2xjtsvHT9SSuL8u6pueVCOkIZ8WM4jQxiutEZ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: S1RjzFYbMVnDpXtNiC9qQz4u2KHV
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 9jD2Mgo8WQsbzXUfrWGlZrs3Eu
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 1EbFW
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 5awLBZR4foQ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: O3r6c2As9yGHae1jwoHrGasDIR05yscfhiGLSAhNkEBrjP6bic
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: mOTOPxMT3Km5eI1BjrR
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: isSugHdyfPL3bk67SwcbEpNbA7g2C
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: BV5tLZ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 8R3ZwPnuFANyEUJH1gDZQyLsatLdVj3qbaXQu2uTV
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 1NVKNuuHc9csl79RX8ub2S0BDqy69jBLI1Kq5VrwpyJPV
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: qSeV8xWWZD7Bai29VfmCJ9s7XbreoHtOlKpJgCDZ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Ey8u3fzBjr2e
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: aTZzaZmn6
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: WSTc9jGb6rzK
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: z4fXFsuwp7A672jmJwUNsq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 83xV0MFJuZzyJxp
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: HPy8BYfkVK7wEY0M
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wudATVbYl3JAUbUaw1zEMLqh4Sw7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wUGTkC1nwEnagF5LFl8Gnt7o8a2X9VS6fE68e5Zx3dy01rmfHT
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: jdnoIAQjs6x7fR1kb06RO5iFgbWOTM
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: sLPmh8HqNXHSACaQJTKzgrKW4DVCnXucx1WeyBnUwo0P
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ezQRTmqJng
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 3CRUTreYa2QSNCe52yNxILkbDJEYiJh7zkEZ0H
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: CKOgaWxjfW7AIsohIOpDI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: vJ26q9MXG8
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: kWwYoePE9mvTwiTFIgNsbiNRG5oGnXs
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: R8a6p33KXETRD8cCEPfyB33WGsvEW46TD3n7gApaT7Msu
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 61BiP05i9XsuJa9P4wH4JQ3So2pC
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: qCB9mL1AoriQs0yYCNCKxVpncLEYeA6SNBMRtXl
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: gMED0kIdFfPs5fq8CaeCicVKBp7Qon6ek5xhKihcHD50HKt
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: g7k1yczVsVlkuJL12rdb2xp4pLs4sQy9Bi9ySGXiDhcWDGf
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Cv0F1vqmibQK
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: MWy6Q4X6ew2HuViEdZYWI6ybPUjIH8Bh
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: qYtWEZcIax28FU5Nop39w5FU65mS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hQqXVCDnU2sq1wAjTXE8gsPzR8xxcyjptaRZdbxmQL
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: dVKo33MGXjmnkHtGMCfxn1XtiuklEuwtZGDw9fkUkj9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 163QGdl2KvXXI01eXMEws
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6VobF7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 5yoarLI5RMuIyCih32LRY0bzdg
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: YpnEFvTzCTtnDD
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NaSM3xHbOa5fXSS3tlnDzm8JmdahsMpoLTLY
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: PjzaBsC5EzTL0MEe70h
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: GyLi5XOXms9QxSnrH7U32
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Abyb5bi4AIRnygKkiQo
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: SE9Z
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: dA7ullbV
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: HnqprSZP5bBUuD
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: S
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: R7odY1j5Y4gio1dLUMOkgJdcbGpAaq4SJb9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: MH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: drtNULGULMtEzWZjBiZAiKYJ645P6RY
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 9NuqQRjG9QBCNOaqji1W26vrrEkS0OQcTqwrOjO8YFlSuw
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ENHY0UCJ58sdj
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: AaRs5GLAmLqpsfxMAmCI9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 4ZM7lW0jt1uCnPeqK7zRfpeuWQCkfcNi
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: oXe1u5r
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2MaixCiotPAUZYD9C2ZaKnlELiMwlafR4PeedZBcHEU
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: MmoaxVq8rUgHZZ7NP
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 4Vk3IKrhZe
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: XotdUzJUiRGEikEGUWr3cfIqNndpqgaRgmSD
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: AyMS7qIoljDzSOD0v5M6zFiVHMbGB05RZdTyeZQJzNWed2H
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ZiPobr5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: o8dPoZFjjAWMXefQ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NOUNuKP4NiT
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hPtrpIpiYHX2mxS5HDtaW2b21r4TacBsfS6O93v
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: jgSjPydnbH7sFyAgZs
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hZVrHFc0Hj6QwocPe042asj6zKn6
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: MhIr
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: iEPc1hNIfy9mcxkemf6ZdZZPooFJ313RJCG1nQoQq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 5GqZ1JP5S
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: zy3x5UBdWZrgq1I
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: fMr4Tfat3PQ6aily7FwbaDRRlMjf
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: BlZJ0ahIakFdZY9wl2hThGRpQTfIdB2w3OZwciXH2DCkr3PT
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: iBjer2iBVYjlRCOv1pbBSXhlQoLj60Dpm9kQe60DXlGJzmI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: VOtLG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: MWtOgSJcTJluJblCbgZ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: EN5sXCTlmckNfbdBdCkuNdalYj5XWk8nKTyzaX12lr
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: GYdyjxcmogfueq8FKzF2VPTLuvhKzA
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: J37DPpLCyvIBLB3zhUgVS8EqBRU8vM0ALkq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: fqwle6QhVSOBK8TcA8QkMhEb
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wkfva2u
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: efPaT4ShGhOAlwio9FGlyrnOzHaq7LSGxChifI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: lSPKJlwEZSHUNKAQ8m2VzRIRcPtRsrkWFjKHU7us22ls
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: VfpSstcl2qWTdD4Mp
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: KbQTVSMnI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: UN0qbFkVu0ebQlOoNWdjOHinW8M9xtov
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: fzn7eugqUAFA8cH43P0uVArr
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: vLXXNyODy31pcOJjCxfPycb
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 0BoF4gite11xw5U7EUsFP8UIdnTK6w54kL21BolLfd7n
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ZYVJ4pvhx1kkKoJrpzUJ1FBo43lFocBVa1jq84hFXc
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: gEaacqDpxqRIFY94yWcCGMim196kKF
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: YqNHMfB5iULyL
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: WxzuljvFj
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ot28jAsZaeutDw0
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 0vb8B5FDFA5625SG5taqkdvxgQM1zWD5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Vg2kVh5FpTUFuWxBSxekPn7ZJ4t7Y4EXz8gkwYr73dM7O
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: eV50qG1YZ8sRvEvJPsq0adzU057UNkDT
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2GREbovjFk1VPFw8C8g8IB74LsOL2TpCoNZ3ML2Knn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: nRwIzv128z2D7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: eRLZ7xko1GynvGdTZux4U7pD
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Le8pZ4QZrsCI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: XlqDDkZbOrybYPY9SNPr0xY2C
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: R1duvu0gapb9rP4ICa8BgobWbSHvka8wc
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 31pEf39vyJ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wysvkD4ZTLFyMlxGI6W
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: TSgkVpvktfSiIflPcT5SrGKnVcZGYfWuP
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: CCKWKZTTqTKFgf
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: cbBr8zRMgtyIgUts6nrqeA3SNSF3KBq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ZspnH49aIK5JVvl70xtzVbGnZCpDHLZFVei4mx97f1YlDY4so
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 7Wmsx4x
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 5smWnIRmO5i
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: IJO0VUt97xg1a9WXFSP8mI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ua93azZITpXIWNHL63okGBfMPAKPxF9b1i
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ZomWVQRskxykW7lrWhclBm2ZeeqepCjwHXEgjpl7wA
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 62JptqANl0x56y4
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2h8CQGw6qTbldk9NG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: kl4qwmOb1EPzNtMBm38SvISt3ZJUMCENsAw8rwd4I
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Prht2sE1L9DCJ07Lttnt6WWLNMLG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Q3pu3rVpWqoZnSLummx
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wnXTp5zkkGnKrW
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rxzedkRknAXQuZMMkU1njSCS0n4RgTfhbGS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: QvjTxh5PpG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: tCyVklQMi
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: dudm2hQjYTQvPTns01tK
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ph50012GXx05x407nCLL7KzulDFdZiQmx
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: G9Dp7yHlNlXGx9u
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: cIgbWblrpcVkqfFge5hFmLfSqiflE1wZE9Z
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wiraycJyLYpFhrJjkSpeOADrEm5Hvu5mCccMb
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2Yqcq21X7Av4hwUYQXFholVytpiw4Jp1t9vINok3IbShUNb
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: kAsiujPZLAFN
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: BG1reuxwRfF5MyRDv9SwIsDguCAfom9sr9lMj0
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Gjzkw7U9zWUaTVk0HfNYxhg4rrQTatITIXwIGpa3Hz8
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: kohrRpmBEsq8Vqno8GOs0q
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: xmVI1ZbTK1dWqUBx6sW6nJvPIFI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: TCUI4X8O5ktUPJ28rOEdWo
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 40jDvcxVfNiX2RnWp1B
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: lbiduUtz6cDJyF
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: CP2KzWg8
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 9k81Lz4LrfCYryf6ZgEOfCFSFskYhgl2uMoYSSKc7Ux
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 905ZFuOhfC
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 988CBO3y10jY0hIVnxkOlYtSFRhjWSn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: B2FZWotyc
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: o6ToLjYawlBpdhxgQvagJUBGy0oslfSV7QGE
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ukzb
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 3ZlJBmHI5h
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: pTrqP8KCTZoiOJ4L31y0
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: TI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: I7xw5MgZAUzBYfPI
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Fom
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: nKZypAVn5YneTx35MrzNLt3fLBHL
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: BpsA4reT6MzfKdggZvGkmLDqzV6TQ1jewHNXe7quCSeWHWT1
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: LrQaqJpsQDBaF8X
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 4j7gTMMnNULxzRB
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: r6vZu9ZuW31D4oxab4m5Xd
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2TZn82oZw7H1yyszo7oEICpTc3w4Oso4fv3ry
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 5XxeoLGGe6DbGYwRQSD40Z1Tw2VCnJDwdUH1G4wqWv0f
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 766UqDhJHXG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wYes
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: LkosXgQSHiWYVd3nzoKz1nmsLAbBC
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: crwSY0uv0sP1W3PSYx6YaKDiqOCLhg7uqr
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6ApDqBTPDY
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: QQhjoF1vlAMrMvwsWyYSViRpJKkUSEibjEWYVKY
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ss4I0dW5Va16M0eX2KI3NJpC8slzy8PqX746qyXMZ3
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 7qqVe9IZaTuX3w52xl0oGYeiIpANhfpYqP49yGNedhLi9oT
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: MDvWxpJ1G9X6MerTVnhNgP153RjS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 3SNl8fFYiFNdBifZDR6EM1hyh06jfaeKWWkbEM758pNcbPTg
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: yfSg4Gb5jnHt8r5oK6j82ojjqRBz4DC1
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: jMCzAVV8PMPE9SV8dHA5Mcn2Df
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ICXC6W5K8DTeQH153T
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: nXXbEIeo42dg6Xc4l6fWIRdhPNGT3K55zyi7YLe4dos
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: bhY27BQZnr
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: xsSMV5e7mG1sbMwS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: zxtSpBzzSkz69dE4FkFqGNeENP5pU4yeNVS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: HjMR46DZ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: byqppMEGgwD4QG5p99zDljxyyLh4PqmWZSPLYUIm5N
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: qfuB8jq2b5St9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 0jWiaibUqIRhSvA4nqiPveqHn7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: vbJWpZXhKtHzh8alE9ipZwdTOC1sUbdpy3Ef1G1CJlAs
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 7mZdREl506qOr2BQqKcimAoNKVWkKwFcqCqiMkY
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: PRXHkwKNvUlCKExdcD0
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: MHa
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: byDGZive4vkLJHJpxjJpqrLBXN3mrwYxcc4R
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: UdnWTiyONn8H3bFfCC47OwH11Ihz5BOVwlBbsxbyNVX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: l8M0F7oS8xwfC0wi9piXV4MxLgjAF91YW4Fupfhd0yty
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 0Ff1rjoqsFCrC5g3OOTKxe7tguVkfdwIF1qk0
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: SbJzFa4
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 4B9qx
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ZT2OfQcopbSX141QcG5f65U
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: BN6f31x4XVTgW920ADIPnzER2WRqTzCB0fHRdTnyVaH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: On3TMDoXs05eg7Bdvd8z
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: G
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NiQty74MB8q4mA6Mybhtd
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Y6Jj2P8SULelmt4XV
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: YondE
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: D0qtl
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: nnE2ElEL1L
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rnM80ceD99D5UpQzsmCnDR67WtgPnKcPOL7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: x10z
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 4uWTX2ZNSHsFe4wnB9gdFnbOyWDTolVO
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: WHOozba3axTumEU0tBdYXzLKWDLZ6JXROiLOb
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 5Rs1QrqpXGDvR
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 5LMoFZyLXuASmM
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hcW2SqFvqVaHOzeBB1kiNkZIUnJ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 02i6qH5MFsPnJ7PLwJwXFrJ6m3CLQb6eNOzMAWc6oOjnFU
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: I8sBUiBasb6pLlAtOnDjaFZ0bi2XLDwsPSbjrbZbm
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: VrbWGv6gqYG4UZdUSE7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Pn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: P4in4M
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hGd6OExhfXWX7Bqr3Mt2tDyxqoTNF6N
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: kHl2X2WxyGJDMz9p
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: e5HhD
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wkgQO8VL2GepWuvUsaiQfXQ7i3eoFQ80oB
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: XrN5zCZfqelsPcKQwokJv
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ww3YBXCnwr426qzxrhi1K9uQJBhQ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: n8JQGvSXVpPxHponHwT
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: tQNSZ0SPM
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: VJySWlQCsXrVxjTQebBFSWbYwIF9GdO7OY6WnZKZ2LX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: dTgEczUFgNunZ09y1URcMYOyc2
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: QgYkwACSWPJ825I9o2DsSJ7vwZ5zEz
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 0YBvYDe7U7WkTTV39Lwa35hjrIvBTOqcZnWe5R3rpF1YeAq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: lX00EKqQjcLLdDdpG7kCAgDuDSw49sayZk0E8g9U
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: k
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: stvxAaK
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: fuxk7z3a3BFQsEYGnuUJse1OUfc5aAd
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: OYYxCD7e4RIBLBCACnspEYNhwRJtU7yLi
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: p2wXJ3tsAAEBMbqjnhdWfSnft
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: XQjAtKvZbLNBJTuZzrMv3v8FhRsmZIWtdG
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: TDidaUyScxJkg93cbEgeusxOS
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: av7j6nPHJS6EJJIR
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ejvRoHjqkgfRRmAWXQa
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: dIocRiviInLuWNBA3koL
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: XaTbH9GnSa6lzK434LOOCmDcLkN3MvN3PQso2itGqK4Qs17KD
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: XqDTPwvZKGzOTjbjmogNNLgZW
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: iBnZSMpbWlsFYgiI49vekRPghXGM4TsFSyXvCcipJIBpx
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Z3euEMd
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Z7FjD8wuHJGxckoPKPJxDr201EWRc0fs8ALea
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 1tHAUKXOijDaJW1Ejn1OJPgGztEUUoGbX9AsXXYtGr7K
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: LUOyiX7md1idw4hKgRCOTARhonS1xO28ZnFAdElp8oRv
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: BsHYFO
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: SdsY5HHrDDrBFWviMl20FxD6sGQ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: uhQusaBWOWvojKQsbF
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: z9aDb9UxCNBHzv6H71lfTrjJlky5OqzBC
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 3xk1Q93JwXd3h74xxRpWuWZxBmYKNv
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: uYKdQVAiKcFjceJ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: M6ly4ELbbjPswtxPZSv7WxExYhA3
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: w7Cdt2WT2MFzQ8uDJCwWlV0XNHfenD66539TR3h1XkrMe6f
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: yZJJSgeQ5ReEG46yMxRaCuGawgQ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: eY
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: FpPKzgZaudyUpFfDmHf3sTqGQUyjHXBlFah
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 7vw8hPQrPtLDZfTsL17u1iWkOQ0p5V3XTW2XYtzgHr
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Q117DufKzyP0vjOvP3xH2kxWoa1pWf9nR7BxU0NzvYoMlOqka
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Mjcq9A2KeZWd65gaOnsrVNys2oq4lAk6GZ3M2d
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Ff1UgvT85k2X6HgVMKyYSrfYEtNk0vU
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: VPhdzHO6ntqRnf9bDVsMn4VBQhVJFyRLOnFzM491OUBEs5Xhd
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: zJ9xGFuRYkRdJ1Wv
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 28q1aNGbRFfz6uyIcv3YYTNAZ5QUAz8lXyMk2Qntanq4eqM
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: nQ0IXvXx1vmkQh
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: zTEadimM4HmmcUOKVXQrFfXmn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: F8TpZ3yXoP9bVghoKVq4EmjW95yHsP
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6KIhBBQwwUy
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NdBUMRZH9TK0zoYDo7o7LEeuzEzrNHKtWddVhAKEexn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 8EVQsDqtz2biIgapfTfEzCPR
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: UjKoGgDtz9t0e92bl
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: PU5YfUUzrvisVriIKo7tBCbWVopHBFV0GPAVQH8IBteItj1gx
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: vh0htCls9kAQXTHuyM6de7vo9JskKeGP
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: efwnPii1GsPFeDhIfvjgZD5Jd
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: IQrHM2C3NDy6hs45DKqVdMxoKPj
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: pyldAwOFJQHwpvaytQEFxUw
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: GlQeAFtKRvg
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: wmWyHdSB7GB5DdZ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: lRaWF
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: mFc0w7srYCARxrWnnGBqRciYVax5batJ7C6gusAPmuPXsGg8
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Q86IvSMy8C9ex5ajqgqZ0mZMQjc0gxByxbUt4cRZCYnQSqDt
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: L5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: TrAcQWt
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: k4NNgzWOZGP
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 21kJoVexmC5gukP6PVqPe83pCXGiqipv
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: RIdd1U4XmIMFrIGJtVIE50M5lxBbr9zUpX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: SLQTksVoDNdd6wBIVLoCr
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: jKLTTRo7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: N7hyOBUUwCqbWhw2Ns5DLhfOQVXO8jA3pLPvmZebm9
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: qMnW5UGkHIs81NrosGtg0MUO6v9JmwGmvyasAbTcSjfXYdoSJ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: G7FwbhmhhwF8C0E5Xdz
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: SGZcWjJhojAp2buKf1PdaPwlC0RBQpOs
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 6YJdrcd9XQDF1Fq
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: QCbG72bNni41ndllaohLTOhodQQaST5z5fnONr3Ngrce
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Lo5dFCDDCPUeI37Ge
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: o75sBEt1uy
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: WQjTXmfgdReGCCSrBA0KWLKgken7ue4JhBx1kUu9LHheb
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: aQKC0CDeWqAxUxoyqHjCroy719racaV
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: cEG1EgB
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: GfcAy6TZhJCN41Wkpq7g1l7Mium9rsN84mvm
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 8oqA9QfgCzWKQ8CspoywKmjUdiLh0
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 5StOhklFUX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: lGQ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: GRtqq2DYE6Z7EF5TTra41W2f0LYJ8kWcGY2ziJIbV21XI4u
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 38a7Ooa0uWcO1FfQvcz7CrGytm2opj076Wm2iv0
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: fXZdDvgcBChcBcKfhnsb44NdidUWdqZKHMEPwm3uB8ALY8b2q
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: gD38Jwq4RuSzvdQoO6DUGQtFh2In0QZQT4jpY
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: QvymveYGd0Xat403WYjeXHSPZ45IeqmUBud6D0y8Uop5KuBUvE
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: OoEZzFOzKQCXVB5v8Mtm8vgQl2Mb2Lg0KzLGNd
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: HAVLYYU10U7GUW04AJS7s1lc9NnRsNeVhw
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: gGf
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: BUEmw2XOmRrjxkWwNz3wm
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Zhmqy4V6GKmBzXGMAi05wdK
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: ylt9R3H963ZqXY8xzrb30
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: d4eyhcsL9k1vYRCFvgcqaVrFiL7dg2E
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: bKXAb9hunvBoYwsZD8TAEL057KttMwQemUBE0UnxPw
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: KaKalDplvvmqgybO
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 06S07cu9Cgnx
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: pidfWJevtMs190YaHOpOc6Yg8PlNDDjd9cLvJddz7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: V
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: oX8nZ7TeMzHHqzVJfImtmRtLg
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: B7Y1IuyU
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 1qLW0uQ8gHGQmuK
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: FRRU2D1CEexdADtEyP4p
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: JPkZSJecUGXAs9aD5CylWWVh2aTeXJM8U9V4oQOGmlfBofW
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Ijdoftff9kMxzLYCIYuWpzniHBwemnP6Mo6
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: y99zt4Nj4JdQVc1aELoKJy5QqRGXgoIgY9SmKIcDvkHWk
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: g6x2hekGWLmrQSs6A
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: u7Bx7U6bVALvO
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: PK9s4Ufzb2sOJEykhuZf
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: nBxcotha
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rUeRNfFYFo5Vsda9nK9kNtm4TzvGezeI8OwX
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: IJ
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: p8rtkq4Z3QbioMf4WyFkQiELqJNRe3l46
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: hl5dKfUXWShGN3Cv5BqohZyh
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: iMEtkuuYJX3HsJSh6sNqKxRCB
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: MoCCnN7Ff9NzP3ILpWxzX7
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: xw8kW6n5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 2zeZoUbjAYqfy2zSl
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Ojv0zkWlVbJQXRw5I0eZw0m3q6Z
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: pO
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: qSZadAkw
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: tWns5KBEAPaEeuFMyczvYETBLzeVD4D0ZiexabjlH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rAr9Wunp0
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: GlDoQK90OAc
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: OM77HFqV5io6JSN4nskROvgm7OPpbShmxGoWV
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: NazOKRXkL
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: mWJo0Ctbf
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: knQCSAAz
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: tm7Mk4XVx8jvZkhdEP8gy9X8aA36ZbH
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: 4U4m07yMGgbyGnfJcaTJMyluEB
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: LCglz3z80iGxfphvlSCCDBO
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: qPWz7FZNV7764JuORv37pB
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: JdcQa0CwbP8Fl5Vyfwm0F1cLgCnLuDVG5TqjKJ4z
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: BjmmnAcd
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: rapasZ7MEhyZxTAlqQ5
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: GlF9m97afPws7Chzxzmsu5ahM05OLe8KNRqGL8Gz1OLiR09tFC
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: VQWIYdZiLphj
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: R17xi
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: VxK4dIjn2XPbSqarUICy4eIXnLbIGattX5HNGIUgxoJEc43
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: M2faNcn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: cn9fpaw15j7HOJBdoQ14Tk
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Wv4yGluHUMdBiLAHppa7stO2v8gE9EO9ho82Cyo
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: Qn6PBmqld2KpCPpW
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: x4JDOoDoQtTKEO5NDjmaPeqHjMfPOknaRn
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
+Input: IchjtfhKjrLBJckoWMFrWSYyh
+Return Code: 0
+Stdout: Mauvais flag !
+
+Stderr: 
+========================================
