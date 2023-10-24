@@ -1,0 +1,1 @@
+zsh: text file busy: ./ELF_antiDBG_01
