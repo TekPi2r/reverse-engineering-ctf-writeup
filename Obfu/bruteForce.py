@@ -24,8 +24,7 @@ def test_password(password):
 
 
 # Testez toutes les combinaisons possibles de 3 caractères
-charsK = chars[len('abcdefghij'):len(chars)]
-for c1 in charsK:
+for c1 in chars:
     for c2 in chars:
         for c3 in chars:
             password = c1 + c2 + c3
